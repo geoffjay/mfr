@@ -1,5 +1,5 @@
 {
-  description = "My cute Rust crate!";
+  description = "Map Filter Reduce CLI";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";

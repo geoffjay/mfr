@@ -2,5 +2,7 @@
 name = "mfr"
 version = "0.1.0"
 authors = ["Geoff Johnson <geoff.jay@gmail.com>"]
+description = "Map Filter Reduce CLI"
 
 [dependencies]
+clap = { version = "4.5.4", features = ["derive"] }
